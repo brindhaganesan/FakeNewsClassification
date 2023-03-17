@@ -5,7 +5,7 @@ Hello and welcome to this project!
 
 
 
-Problem statement – Fake news detection
+Problem statement – Fake news classification
 
 Goal - Develop a supervised learning model that can accurately classify news articles as real or fake using Natural Language Processing (NLP) techniques.
 
