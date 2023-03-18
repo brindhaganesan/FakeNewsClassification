@@ -3,7 +3,7 @@ Hello and welcome to this project!
 
 ![fakenews](https://user-images.githubusercontent.com/50005288/224878497-662f6d7a-eedc-4642-9e24-10dad582d4c8.png)
 
-
+The goal of the project is to build Machine Learning model that can classify news articles as either FAKE or REAL. This is a classification problem and the problem I am trying to solve is the identification and classification of fake news. By doing so, we can help combat the spread of fake news and disinformation.
 
 Problem statement – Fake news classification
 
